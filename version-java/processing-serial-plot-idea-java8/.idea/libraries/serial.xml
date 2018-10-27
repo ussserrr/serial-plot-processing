@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="serial">
+    <CLASSES>
+      <root url="jar:///Applications/Processing.app/Contents/Java/modes/java/libraries/serial/library/jssc.jar!/" />
+      <root url="jar:///Applications/Processing.app/Contents/Java/modes/java/libraries/serial/library/serial.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
